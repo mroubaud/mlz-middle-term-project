@@ -4,6 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
+import sklearn
 
 from sklearn.model_selection import train_test_split
 #from sklearn.feature_extraction import DictVectorizer
