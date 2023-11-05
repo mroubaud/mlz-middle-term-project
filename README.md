@@ -1,7 +1,7 @@
 # mlz-middle-term-project
 In this repo you can find all the files related to the mlz middle term project of Matías Roubaud
 
-You can find am online app of this project in [this link] (https://mlz-middle-term-project-app-app-cxbuwbwd4mumbg2rb54o2d.streamlit.app/). In the same link you will find the description of the problem, exploratory dana analysis and a simple app to use the trainned model. Repo for the streamlit app can be found [here] (https://github.com/mroubaud/mlz-middle-term-project-streamlit-app).
+You can find am online app of this project in [this link](https://mlz-middle-term-project-app-app-cxbuwbwd4mumbg2rb54o2d.streamlit.app/). In the same link you will find the description of the problem, exploratory dana analysis and a simple app to use the trainned model. Repo for the streamlit app can be found [here](https://github.com/mroubaud/mlz-middle-term-project-streamlit-app).
 
 In this repository you will find the following files:
 
