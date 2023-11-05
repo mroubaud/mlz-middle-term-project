@@ -4,17 +4,16 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
-import sklearn
 
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction import DictVectorizer
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.metrics import mean_squared_error
+#from sklearn.feature_extraction import DictVectorizer
+#from sklearn.ensemble import RandomForestRegressor
+#from sklearn.ensemble import GradientBoostingRegressor
+#from sklearn.metrics import mean_squared_error
 
-from flask import Flask
-from flask import request
-from flask import jsonify
+#from flask import Flask
+#from flask import request
+#from flask import jsonify
 
 intro = st.container()
 exp_data = st.container()
